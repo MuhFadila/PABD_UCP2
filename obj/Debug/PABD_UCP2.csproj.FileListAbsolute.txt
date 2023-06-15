@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\PABD_UCP2\bin\Debug\PABD_UCP2.exe.config
+C:\Users\LENOVO\source\repos\PABD_UCP2\bin\Debug\PABD_UCP2.exe
+C:\Users\LENOVO\source\repos\PABD_UCP2\bin\Debug\PABD_UCP2.pdb
+C:\Users\LENOVO\source\repos\PABD_UCP2\obj\Debug\PABD_UCP2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\PABD_UCP2\obj\Debug\PABD_UCP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\PABD_UCP2\obj\Debug\PABD_UCP2.Form1.resources
+C:\Users\LENOVO\source\repos\PABD_UCP2\obj\Debug\PABD_UCP2.Form2.resources
+C:\Users\LENOVO\source\repos\PABD_UCP2\obj\Debug\PABD_UCP2.Form3.resources
+C:\Users\LENOVO\source\repos\PABD_UCP2\obj\Debug\PABD_UCP2.Form4.resources
+C:\Users\LENOVO\source\repos\PABD_UCP2\obj\Debug\PABD_UCP2.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\PABD_UCP2\obj\Debug\PABD_UCP2.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\PABD_UCP2\obj\Debug\PABD_UCP2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\PABD_UCP2\obj\Debug\PABD_UCP2.exe
+C:\Users\LENOVO\source\repos\PABD_UCP2\obj\Debug\PABD_UCP2.pdb
